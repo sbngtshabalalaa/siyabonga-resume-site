@@ -27,8 +27,8 @@ header h1 {
   font-size: 3rem;
   margin-bottom: 0.5rem;
   letter-spacing: 1px;
-  color: #93c5fd; /* Softer blue tone */
-  text-shadow: none; /* Removes glow effect */
+  color: #e2e8f0; /* Soft neutral tone */
+  font-weight: 700;
 }
 
 .subtitle {
@@ -156,4 +156,5 @@ ul li::before {
   font-size: 1.2rem;
   line-height: 1;
 }
+
 
